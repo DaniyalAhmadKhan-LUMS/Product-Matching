@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/src/main/jni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "ninja",
+      "-C",
+      "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/.cxx/Debug/69475v2f/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "ninja",
+    "-C",
+    "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/.cxx/Debug/69475v2f/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "yolov8ncnn-Debug-armeabi-v7a": {
+      "artifactName": "yolov8ncnn",
+      "buildCommandComponents": [
+        "ninja",
+        "-C",
+        "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/.cxx/Debug/69475v2f/armeabi-v7a",
+        "yolov8ncnn"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/build/intermediates/cxx/Debug/69475v2f/obj/armeabi-v7a/libyolov8ncnn.so",
+      "runtimeFiles": []
+    }
+  }
+}

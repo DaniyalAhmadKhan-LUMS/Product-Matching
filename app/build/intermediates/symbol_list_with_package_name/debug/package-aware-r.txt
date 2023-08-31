@@ -1,0 +1,8 @@
+com.tencent.yolov8ncnn
+array cpugpu_array
+array model_array
+id cameraview
+id spinnerCPUGPU
+id titleTextView
+layout main
+string app_name

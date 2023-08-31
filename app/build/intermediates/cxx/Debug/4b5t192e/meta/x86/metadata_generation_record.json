@@ -1,0 +1,814 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 24 min SDK version: x86",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1872610297
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/.cxx/Debug/4b5t192e/x86/android_gradle_build.json due to:",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 459223779
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/.cxx/Debug/4b5t192e/x86/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1960983729
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/.cxx/Debug/4b5t192e/x86/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1796990287
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1083694558
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/.cxx/Debug/4b5t192e/x86\u0027",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1638326986
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/.cxx/Debug/4b5t192e/x86\u0027",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -291927338
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : /usr/local/cmake-3.10.2-Linux-x86_64/bin/cmake\narguments : \n-H/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d24\n-DANDROID_PLATFORM\u003dandroid-24\n-DANDROID_ABI\u003dx86\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86\n-DANDROID_NDK\u003d/home/daniyal/Android/Sdk/ndk/21.4.7075529\n-DCMAKE_ANDROID_NDK\u003d/home/daniyal/Android/Sdk/ndk/21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003d/home/daniyal/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/build/intermediates/cxx/Debug/4b5t192e/obj/x86\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/build/intermediates/cxx/Debug/4b5t192e/obj/x86\n-DCMAKE_BUILD_TYPE\u003dDebug\n-B/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/.cxx/Debug/4b5t192e/x86\n-GNinja\njvmArgs : \n\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 475425824
+  },
+  {
+    "level_": 0,
+    "message_": "\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 968628192
+  },
+  {
+    "level_": 0,
+    "message_": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -208487750
+  },
+  {
+    "level_": 0,
+    "message_": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -923872359
+  },
+  {
+    "level_": 0,
+    "message_": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1814655878
+  },
+  {
+    "level_": 0,
+    "message_": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni\",\n  \"buildDirectory\": \"/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/.cxx/Debug/4b5t192e/x86\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 701022420
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 193587451
+  },
+  {
+    "level_": 0,
+    "message_": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d24\",\n    \"-DANDROID_PLATFORM\\u003dandroid-24\",\n    \"-DANDROID_ABI\\u003dx86\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003dx86\",\n    \"-DANDROID_NDK\\u003d/home/daniyal/Android/Sdk/ndk/21.4.7075529\",\n    \"-DCMAKE_ANDROID_NDK\\u003d/home/daniyal/Android/Sdk/ndk/21.4.7075529\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003d/home/daniyal/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003d/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/build/intermediates/cxx/Debug/4b5t192e/obj/x86\",\n    \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\\u003d/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/build/intermediates/cxx/Debug/4b5t192e/obj/x86\",\n    \"-DCMAKE_BUILD_TYPE\\u003dDebug\"\n  ]\n}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 277195473
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang\",\"type\":\"message\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -802385443
+  },
+  {
+    "level_": 0,
+    "message_": "Check for working C compiler: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -930664283
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":33,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 19246713
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang -- works\",\"type\":\"message\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -828496791
+  },
+  {
+    "level_": 0,
+    "message_": "Check for working C compiler: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang -- works",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1938098529
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info\",\"type\":\"message\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 660638035
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting C compiler ABI info",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1196405579
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":65,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2065342766
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 333727394
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting C compiler ABI info - done",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1769455082
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features\",\"type\":\"message\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -871328530
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting C compile features",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -302116298
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":96,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -69435784
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":126,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1001377750
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":155,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -905215414
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features - done\",\"type\":\"message\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1534592679
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting C compile features - done",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1925721953
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++\",\"type\":\"message\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 901095485
+  },
+  {
+    "level_": 0,
+    "message_": "Check for working CXX compiler: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1969076997
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":184,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1483158718
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ -- works\",\"type\":\"message\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 854540809
+  },
+  {
+    "level_": 0,
+    "message_": "Check for working CXX compiler: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ -- works",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 166996737
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info\",\"type\":\"message\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1561025491
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting CXX compiler ABI info",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1706328011
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":211,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1455148171
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1302354910
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting CXX compiler ABI info - done",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1928061290
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features\",\"type\":\"message\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1535020434
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting CXX compile features",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1099806134
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":237,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -623516703
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":262,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2073739095
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":287,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1128014934
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":311,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 570923552
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features - done\",\"type\":\"message\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2036005159
+  },
+  {
+    "level_": 0,
+    "message_": "Detecting CXX compile features - done",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 988888351
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Error at CMakeLists.txt:7 (find_package):\\n  By not providing \\\"FindOpenCV.cmake\\\" in CMAKE_MODULE_PATH this project has\\n  asked CMake to find a package configuration file provided by \\\"OpenCV\\\", but\\n  CMake did not find one.\\n\\n  Could not find a package configuration file provided by \\\"OpenCV\\\" with any\\n  of the following names:\\n\\n    OpenCVConfig.cmake\\n    opencv-config.cmake\\n\\n  Add the installation prefix of \\\"OpenCV\\\" to CMAKE_PREFIX_PATH or set\\n  \\\"OpenCV_DIR\\\" to a directory containing one of the above files.  If \\\"OpenCV\\\"\\n  provides a separate development package or SDK, be sure it has been\\n  installed.\\n\\n\",\"title\":\"Error\",\"type\":\"message\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -527017061
+  },
+  {
+    "level_": 3,
+    "message_": "CMake Error at /home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt:7 (find_package):\n  By not providing \"FindOpenCV.cmake\" in CMAKE_MODULE_PATH this project has\n  asked CMake to find a package configuration file provided by \"OpenCV\", but\n  CMake did not find one.\n\n  Could not find a package configuration file provided by \"OpenCV\" with any\n  of the following names:\n\n    OpenCVConfig.cmake\n    opencv-config.cmake\n\n  Add the installation prefix of \"OpenCV\" to CMAKE_PREFIX_PATH or set\n  \"OpenCV_DIR\" to a directory containing one of the above files.  If \"OpenCV\"\n  provides a separate development package or SDK, be sure it has been\n  installed.\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1878900776
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1723244082
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring incomplete, errors occurred!\\nSee also \\\"/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/.cxx/Debug/4b5t192e/x86/CMakeFiles/CMakeOutput.log\\\".\",\"type\":\"message\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1037493710
+  },
+  {
+    "level_": 0,
+    "message_": "Configuring incomplete, errors occurred!\nSee also \"/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/.cxx/Debug/4b5t192e/x86/CMakeFiles/CMakeOutput.log\".",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1947871290
+  },
+  {
+    "level_": 0,
+    "message_": "{\"cookie\":\"\",\"errorMessage\":\"Configuration failed.\",\"inReplyTo\":\"configure\",\"type\":\"error\"}\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 744323558
+  },
+  {
+    "level_": 3,
+    "message_": "Configuration failed.",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1797688952
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed with problem. Exception: com.android.ide.common.process.ProcessException: Error configuring CMake server (/usr/local/cmake-3.10.2-Linux-x86_64/bin).\r\nCheck for working C compiler: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang\nCheck for working C compiler: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang -- works\nDetecting C compiler ABI info\nDetecting C compiler ABI info - done\nDetecting C compile features\nDetecting C compile features - done\nCheck for working CXX compiler: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++\nCheck for working CXX compiler: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ -- works\nDetecting CXX compiler ABI info\nDetecting CXX compiler ABI info - done\nDetecting CXX compile features\nDetecting CXX compile features - done\nCMake Error at CMakeLists.txt:7 (find_package):\n  By not providing \"FindOpenCV.cmake\" in CMAKE_MODULE_PATH this project has\n  asked CMake to find a package configuration file provided by \"OpenCV\", but\n  CMake did not find one.\n\n  Could not find a package configuration file provided by \"OpenCV\" with any\n  of the following names:\n\n    OpenCVConfig.cmake\n    opencv-config.cmake\n\n  Add the installation prefix of \"OpenCV\" to CMAKE_PREFIX_PATH or set\n  \"OpenCV_DIR\" to a directory containing one of the above files.  If \"OpenCV\"\n  provides a separate development package or SDK, be sure it has been\n  installed.\n\n\nConfiguring incomplete, errors occurred!\nSee also \"/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/.cxx/Debug/4b5t192e/x86/CMakeFiles/CMakeOutput.log\".\n",
+    "file_": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/ncnn-android-yolov8-old/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -937408612
+  }
+]

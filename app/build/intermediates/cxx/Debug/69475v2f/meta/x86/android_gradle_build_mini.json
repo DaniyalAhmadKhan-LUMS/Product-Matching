@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/src/main/jni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "ninja",
+      "-C",
+      "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/.cxx/Debug/69475v2f/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "ninja",
+    "-C",
+    "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/.cxx/Debug/69475v2f/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "yolov8ncnn-Debug-x86": {
+      "artifactName": "yolov8ncnn",
+      "buildCommandComponents": [
+        "ninja",
+        "-C",
+        "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/.cxx/Debug/69475v2f/x86",
+        "yolov8ncnn"
+      ],
+      "abi": "x86",
+      "output": "/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/build/intermediates/cxx/Debug/69475v2f/obj/x86/libyolov8ncnn.so",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,516 @@
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/src/main/jni\",\n  \"buildDirectory\": \"/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/.cxx/Debug/69475v2f/x86\",\n  \"generator\": \"Ninja\"\n}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d24\",\n    \"-DANDROID_PLATFORM\\u003dandroid-24\",\n    \"-DANDROID_ABI\\u003dx86\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003dx86\",\n    \"-DANDROID_NDK\\u003d/home/daniyal/Android/Sdk/ndk/21.4.7075529\",\n    \"-DCMAKE_ANDROID_NDK\\u003d/home/daniyal/Android/Sdk/ndk/21.4.7075529\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003d/home/daniyal/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003d/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/build/intermediates/cxx/Debug/69475v2f/obj/x86\",\n    \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\\u003d/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/build/intermediates/cxx/Debug/69475v2f/obj/x86\",\n    \"-DCMAKE_BUILD_TYPE\\u003dDebug\"\n  ]\n}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang\",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Check for working C compiler: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang"
+
+CMAKE SERVER: message: "Check for working C compiler: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":33,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang -- works\",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Check for working C compiler: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang -- works"
+
+CMAKE SERVER: message: "Check for working C compiler: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang -- works"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info\",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Detecting C compiler ABI info"
+
+CMAKE SERVER: message: "Detecting C compiler ABI info"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":65,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info - done\",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Detecting C compiler ABI info - done"
+
+CMAKE SERVER: message: "Detecting C compiler ABI info - done"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features\",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Detecting C compile features"
+
+CMAKE SERVER: message: "Detecting C compile features"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":96,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":126,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":155,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features - done\",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Detecting C compile features - done"
+
+CMAKE SERVER: message: "Detecting C compile features - done"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++\",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Check for working CXX compiler: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+
+CMAKE SERVER: message: "Check for working CXX compiler: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":184,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ -- works\",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Check for working CXX compiler: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ -- works"
+
+CMAKE SERVER: message: "Check for working CXX compiler: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ -- works"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info\",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Detecting CXX compiler ABI info"
+
+CMAKE SERVER: message: "Detecting CXX compiler ABI info"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":211,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info - done\",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Detecting CXX compiler ABI info - done"
+
+CMAKE SERVER: message: "Detecting CXX compiler ABI info - done"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features\",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Detecting CXX compile features"
+
+CMAKE SERVER: message: "Detecting CXX compile features"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":237,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":262,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":287,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":311,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features - done\",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Detecting CXX compile features - done"
+
+CMAKE SERVER: message: "Detecting CXX compile features - done"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Found OpenCV: /home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/src/main/jni/opencv-mobile-4.5.1-android (found version \\\"4.5.1\\\") found components:  core imgproc \",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Found OpenCV: /home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/src/main/jni/opencv-mobile-4.5.1-android (found version \"4.5.1\") found components:  core imgproc "
+
+CMAKE SERVER: message: "Found OpenCV: /home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/src/main/jni/opencv-mobile-4.5.1-android (found version \"4.5.1\") found components:  core imgproc "
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":334,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":356,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":377,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Found OpenMP_C: -fopenmp=libomp (found version \\\"3.1\\\") \",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Found OpenMP_C: -fopenmp=libomp (found version \"3.1\") "
+
+CMAKE SERVER: message: "Found OpenMP_C: -fopenmp=libomp (found version \"3.1\") "
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":398,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Found OpenMP_CXX: -fopenmp=libomp (found version \\\"3.1\\\") \",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Found OpenMP_CXX: -fopenmp=libomp (found version \"3.1\") "
+
+CMAKE SERVER: message: "Found OpenMP_CXX: -fopenmp=libomp (found version \"3.1\") "
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Found OpenMP: TRUE (found version \\\"3.1\\\")  \",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Found OpenMP: TRUE (found version \"3.1\")  "
+
+CMAKE SERVER: message: "Found OpenMP: TRUE (found version \"3.1\")  "
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for pthread.h\",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Looking for pthread.h"
+
+CMAKE SERVER: message: "Looking for pthread.h"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":418,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for pthread.h - found\",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Looking for pthread.h - found"
+
+CMAKE SERVER: message: "Looking for pthread.h - found"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for pthread_create\",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Looking for pthread_create"
+
+CMAKE SERVER: message: "Looking for pthread_create"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":438,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for pthread_create - found\",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Looking for pthread_create - found"
+
+CMAKE SERVER: message: "Looking for pthread_create - found"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Found Threads: TRUE  \",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Found Threads: TRUE  "
+
+CMAKE SERVER: message: "Found Threads: TRUE  "
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Found Vulkan: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/24/libvulkan.so  \",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Found Vulkan: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/24/libvulkan.so  "
+
+CMAKE SERVER: message: "Found Vulkan: /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/24/libvulkan.so  "
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Configuring done"
+
+CMAKE SERVER: message: "Configuring done"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"type\":\"compute\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Generating done"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"type\":\"cmakeInputs\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Platform/Android-Determine.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeSystem.cmake.in\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeNinjaFindMake.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Platform/Android-Determine-C.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeDetermineCXXCompiler.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Platform/Android-Determine-CXX.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeGenericSystem.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Platform/Android.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Platform/Linux.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Platform/UnixPaths.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeCInformation.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Compiler/Clang-C.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Compiler/GNU.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeCCompilerABI.c\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeCXXInformation.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeTestCXXCompiler.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/FindPackageMessage.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/FindOpenMP.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/FindPackageMessage.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/FindPackageMessage.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/FindThreads.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CheckLibraryExists.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CheckSymbolExists.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CheckIncludeFile.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CheckIncludeFile.c.in\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/CMakeConfigurableFile.in\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/FindPackageMessage.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/FindVulkan.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10/Modules/FindPackageMessage.cmake\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"/home/daniyal/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\",\"/home/daniyal/Android/Sdk/ndk/21.4.7075529/build/cmake/platforms.cmake\",\"/home/daniyal/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\",\"opencv-mobile-4.5.1-android/sdk/native/jni/OpenCVConfig-version.cmake\",\"opencv-mobile-4.5.1-android/sdk/native/jni/OpenCVConfig.cmake\",\"opencv-mobile-4.5.1-android/sdk/native/jni/abi-x86/OpenCVConfig.cmake\",\"opencv-mobile-4.5.1-android/sdk/native/jni/abi-x86/OpenCVModules.cmake\",\"opencv-mobile-4.5.1-android/sdk/native/jni/abi-x86/OpenCVModules-release.cmake\",\"ncnn-20220420-android-vulkan/x86/lib/cmake/ncnn/ncnnConfig.cmake\",\"ncnn-20220420-android-vulkan/x86/lib/cmake/OSDependentTargets.cmake\",\"ncnn-20220420-android-vulkan/x86/lib/cmake/OSDependentTargets-release.cmake\",\"ncnn-20220420-android-vulkan/x86/lib/cmake/OGLCompilerTargets.cmake\",\"ncnn-20220420-android-vulkan/x86/lib/cmake/OGLCompilerTargets-release.cmake\",\"ncnn-20220420-android-vulkan/x86/lib/cmake/glslangTargets.cmake\",\"ncnn-20220420-android-vulkan/x86/lib/cmake/glslangTargets-release.cmake\",\"ncnn-20220420-android-vulkan/x86/lib/cmake/SPIRVTargets.cmake\",\"ncnn-20220420-android-vulkan/x86/lib/cmake/SPIRVTargets-release.cmake\",\"ncnn-20220420-android-vulkan/x86/lib/cmake/ncnn/ncnn.cmake\",\"ncnn-20220420-android-vulkan/x86/lib/cmake/ncnn/ncnn-release.cmake\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\"../../../.cxx/Debug/69475v2f/x86/CMakeFiles/3.10.2/CMakeSystem.cmake\",\"../../../.cxx/Debug/69475v2f/x86/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../../../.cxx/Debug/69475v2f/x86/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\",\"../../../.cxx/Debug/69475v2f/x86/CMakeFiles/feature_tests.c\",\"../../../.cxx/Debug/69475v2f/x86/CMakeFiles/feature_tests.c\",\"../../../.cxx/Debug/69475v2f/x86/CMakeFiles/feature_tests.c\",\"../../../.cxx/Debug/69475v2f/x86/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../../../.cxx/Debug/69475v2f/x86/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/Debug/69475v2f/x86/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/Debug/69475v2f/x86/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/Debug/69475v2f/x86/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/Debug/69475v2f/x86/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\",\"../../../.cxx/Debug/69475v2f/x86/CMakeFiles/FindOpenMP/OpenMPTryFlag.c\",\"../../../.cxx/Debug/69475v2f/x86/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp\",\"../../../.cxx/Debug/69475v2f/x86/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c\",\"../../../.cxx/Debug/69475v2f/x86/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp\"]}],\"cmakeRootDirectory\":\"/usr/local/cmake-3.10.2-Linux-x86_64/share/cmake-3.10\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/src/main/jni\",\"type\":\"reply\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"type\":\"codemodel\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"configurations\":[{\"name\":\"Debug\",\"projects\":[{\"buildDirectory\":\"/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/.cxx/Debug/69475v2f/x86\",\"name\":\"yolov8ncnn\",\"sourceDirectory\":\"/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/src/main/jni\",\"targets\":[{\"artifacts\":[\"/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/build/intermediates/cxx/Debug/69475v2f/obj/x86/libyolov8ncnn.so\"],\"buildDirectory\":\"/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/.cxx/Debug/69475v2f/x86\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11\",\"defines\":[\"yolov8ncnn_EXPORTS\"],\"includePath\":[{\"isSystem\":true,\"path\":\"/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/src/main/jni/ncnn-20220420-android-vulkan/x86/include/ncnn\"},{\"isSystem\":true,\"path\":\"/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/include\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"yolov8ncnn.cpp\",\"yolo.cpp\",\"ndkcamera.cpp\"]}],\"fullName\":\"libyolov8ncnn.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/libncnn.a /home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/staticlibs/x86/libopencv_core.a /home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/staticlibs/x86/libopencv_imgproc.a -lcamera2ndk -lmediandk -fopenmp -static-openmp /home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/24/libvulkan.so /home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/libglslang.a /home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/libSPIRV.a /home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/libMachineIndependent.a /home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/libOGLCompiler.a /home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/libOSDependent.a -pthread /home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/src/main/jni/ncnn-20220420-android-vulkan/x86/lib/libGenericCodeGen.a -landroid -ljnigraphics /home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/staticlibs/x86/libopencv_core.a -ldl -lm -llog -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"yolov8ncnn\",\"sourceDirectory\":\"/home/daniyal/Documents/Upwork/Jared/NCNN-Android-App/combined/app/src/main/jni\",\"sysroot\":\"/home/daniyal/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
